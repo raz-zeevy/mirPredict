@@ -22,12 +22,8 @@ in order to ease the right RNA to match the miR.
 				-diana.csv: All the data from
 				-mirdb.csv:
 	- ensembl:
-  	- mart_export.csv:
-
-****************************************
-- Proccess
-	1.
-
+  		- mart_export.csv: the Ensembl DB, if the file is old it can be deleted
+                         and the app will download a new one.
 ****************************************
 - Debug Modes:
   In order to use the Debug mode insert the following code line instead
@@ -36,6 +32,5 @@ in order to ease the right RNA to match the miR.
     - 'False' - No Debug.
     - '1' - The scraping browsers are not headless to see what went wrong.
     - 'AAAAAA_######' - Insert an existing search folder (any subfolder of one
-       search not the entire folder of all the searches). know the app uses 
+       search not the entire folder of all the searches). know the app uses
        the searches data and the main screen can be examined.
-
