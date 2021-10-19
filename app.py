@@ -1,6 +1,5 @@
-from controller import Controller
+from lib.controller import Controller
 
 if __name__ == '__main__':
-    # controller = Controller(debug='1')
-    controller = Controller()
+    controller = Controller(debug='False')
     controller.run()

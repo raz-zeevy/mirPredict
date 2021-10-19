@@ -1,4 +1,6 @@
 venv
 __pycache__
 .idea
-searches_data
+.debug
+search_history
+TODO.py
