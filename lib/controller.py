@@ -21,7 +21,7 @@ class Controller:
         self.is_novel = None
         self._gui = GUI()
         self._search()
-        self._auto_search('GGUAUG_512121')
+        # self._auto_search('GGUAUG_512121')
 
     def _search(self):
         def main_menu():

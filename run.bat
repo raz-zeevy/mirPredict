@@ -1,1 +1,1 @@
-py app.py
+venv\Scripts\activate && py app.py

@@ -1,3 +1,4 @@
+# TODO: ADD RAZ ZEEVY TO EVERYTHING
 # TODD: Main Features
 #  found
 # - TODO: Secondary Feature - add a screenshot from gtex for a gene after
@@ -29,3 +30,16 @@
 # - TODO: - Add (!) Remove history button to delete all searches.
 # - Checks that the auto-download works
 #  -TODO: - Multithreading the new search for the app not to be not responsive
+# ###########
+# - add the ENSG identifier to the results
+# - To think about the integration of the expresssion to the results csv
+# - To filter-out results with only CDS entries.
+# - Add Diana-validated indictaion next to a gene in the results when
+# searching mir name and publications links.
+# Working on using old searches`
+# - GETTING THE VERIFIED RESULTS FOR TRFs with NAMES from https://ophid.utoronto.ca/mirDIP/.
+# - CREATE THE SHORTCUT *AFTER* INSELATION, othr
+# - the dependencies werent installed at all using the install code.
+# -
+#######      V.3     #############
+# - GENE to trf
