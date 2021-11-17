@@ -9,6 +9,14 @@ then analyse it. The search proccess includes using data from two additional
 data sources: 'ensembl' and 'MirBase'. 
 
 
+### Download
+1. Click the links below to download a setup file.
+2. Install it localy on your PC. 
+
+
+| Version      | Link |
+| ----------- | ----------- |
+| 1.0 | mirPredict_v1.0       |
 
 ### Tissue Expression
 The Data is taken from www.proteinatlas.org database and contains four categories
