@@ -8,6 +8,7 @@ The app uses headless selenium browsers to scrap the data from the web, and
 then analyse it. The search proccess includes using data from two additional
 data sources: 'ensembl' and 'MirBase'. 
 
+<img src="shot_1.jpg" width="500">
 
 ### Download
 1. Click the links below to download a setup file.
