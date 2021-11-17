@@ -1,20 +1,19 @@
-A First Level Header
+  MirPredict
 ====================
 
-A Second Level Header
----------------------
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+MirPredict is a small app that is targeted at mapping micro RNA into their
+corresponding RNA by using the two biggest engines: 'Diana' and 'MirDB'.
+The app uses headless selenium browsers to scrap the data from the web, and 
+then analyse it. The search proccess includes using data from two additional
+data sources: 'ensembl' and 'MirBase'. 
 
-The quick brown fox jumped over the lazy
-dog's back.
 
-### Header 3
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+### Tissue Expression
+The Data is taken from www.proteinatlas.org database and contains four categories
+of reliability: Approved, Enhanced, Supported, and Uncertain. In the app all
+the Entries with reliability of Uncertain were omitted
+In addition the levels of expressions are set from High to not detected
+while there is another category 'Not Representative' which is ommited from
+query.
