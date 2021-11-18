@@ -1,16 +1,14 @@
   MirPredict
 ====================
-
-
 MirPredict is a small app that is targeted at mapping micro RNA into their
 corresponding RNA by using the two biggest engines: 'Diana' and 'MirDB'.
 The app uses headless selenium browsers to scrap the data from the web, and 
-then analyse it. The search proccess includes using data from two additional
-data sources: 'ensembl' and 'MirBase'. 
+then analyse it. The search proccess includes using data from three additional
+data sources: 'ensembl', 'MirBase' and 'proteinatlas'. 
 
 <img src="shot_1.jpg" width="500">
 
-### Download
+### Download & Install
 1. Click the links below to download a setup file.
 2. Install it localy on your PC. 
 
