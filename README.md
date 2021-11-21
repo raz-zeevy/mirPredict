@@ -15,7 +15,7 @@ data sources: 'ensembl', 'MirBase' and 'proteinatlas'.
 
 | Version      | Link |
 | ----------- | ----------- |
-| 1.0 | [mirPredict_v0.5](https://drive.google.com/file/d/19THfX3aZCVVAPc10DKsL8lz4ab0WXYgG/view?usp=sharing) |
+| 0.5 | [mirPredict_v0.5](https://drive.google.com/file/d/19THfX3aZCVVAPc10DKsL8lz4ab0WXYgG/view?usp=sharing) |
 
 ### Tissue Expression
 The Data is taken from www.proteinatlas.org database and contains four categories
