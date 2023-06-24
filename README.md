@@ -1,4 +1,4 @@
-# MirPredict
+# MirPredict <img src="lib/assets/icon.gif" alt="Genlingo Logo" width="30">
 
 MirPredict is a small app designed to map micro RNAs to their corresponding RNAs using two of the biggest engines: 'DianaDB' and 'MirDB'. The app utilizes headless Selenium browsers to scrape data from the web and performs subsequent analysis. The search process involves leveraging data from three additional sources: 'Ensembl', 'MirBase', and 'ProteinAtlas'.
 
